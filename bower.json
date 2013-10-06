@@ -1,0 +1,8 @@
+{
+  "name": "julian-tung-personal-profile",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "devDependencies": {}
+}
